@@ -1,0 +1,13 @@
+庄
+文件名：jdzjh_zhuang
+动画名：中文： cn
+             英文：en
+开始移动事件名：yidong
+
+
+系统自动开牌
+
+文件名：jdzjh_zjkp
+动画名：中文： cn
+             英文：en
+

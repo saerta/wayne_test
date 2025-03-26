@@ -1,0 +1,19 @@
+{
+"skeleton": { "hash": "DBgAQBZrLSNlXRJDEqqq3uL9MNY", "spine": "3.6.48", "width": 1920, "height": 1076, "images": "./images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "炸金花背景05", "bone": "root", "attachment": "炸金花背景05" }
+],
+"skins": {
+	"default": {
+		"炸金花背景05": {
+			"炸金花背景05": { "width": 1920, "height": 1076 }
+		}
+	}
+},
+"animations": {
+	"animation": {}
+}
+}
